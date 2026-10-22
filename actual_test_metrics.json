@@ -1,0 +1,18 @@
+{
+  "test_loss_and_runtime": {
+    "test_loss": 0.0010583281982690096,
+    "test_model_preparation_time": 0.0051,
+    "test_runtime": 4.704,
+    "test_samples_per_second": 6.378,
+    "test_steps_per_second": 3.189,
+    "epoch": 0
+  },
+  "entity_precision": 1.0,
+  "entity_recall": 1.0,
+  "entity_f1": 1.0,
+  "classification_report": {
+    "BUYER": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 

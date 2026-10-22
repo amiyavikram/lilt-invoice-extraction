@@ -1,0 +1,201 @@
+document_id,industry_archetype,template_type,image_file,word_count,line_item_count,invoice_number,invoice_date,total_amount
+IND-SYN-0001,FMCG / Wholesale,classic,images/IND-SYN-0001.png,67,2,TAX/2026-27/00001,02/02/2026,6055.08
+IND-SYN-0002,Manufacturing / Electrical,boxed_table,images/IND-SYN-0002.png,64,2,GST/2026-27/00002,03/03/2026,1115.1
+IND-SYN-0003,Pharma / Medical,compact,images/IND-SYN-0003.png,74,3,BILL/2026-27/00003,04/04/2026,13569.36
+IND-SYN-0004,Construction / Materials,service,images/IND-SYN-0004.png,85,4,INV/2026-27/00004,05/05/2026,15268.32
+IND-SYN-0005,IT / Professional Services,classic,images/IND-SYN-0005.png,81,4,TAX/2026-27/00005,06/06/2026,256827.0
+IND-SYN-0006,Logistics / Transport,boxed_table,images/IND-SYN-0006.png,81,4,GST/2026-27/00006,07/07/2026,58659.4
+IND-SYN-0007,Textiles / Apparel,compact,images/IND-SYN-0007.png,88,5,BILL/2026-27/00007,08/08/2026,61758.6
+IND-SYN-0008,Agriculture,service,images/IND-SYN-0008.png,73,3,INV/2026-27/00008,09/09/2026,21952.11
+IND-SYN-0009,FMCG / Wholesale,classic,images/IND-SYN-0009.png,74,3,TAX/2026-27/00009,10/10/2026,9128.01
+IND-SYN-0010,Manufacturing / Electrical,boxed_table,images/IND-SYN-0010.png,88,5,GST/2026-27/00010,11/11/2026,57018.78
+IND-SYN-0011,Pharma / Medical,compact,images/IND-SYN-0011.png,66,2,BILL/2026-27/00011,12/12/2026,7317.1
+IND-SYN-0012,Construction / Materials,service,images/IND-SYN-0012.png,66,2,INV/2026-27/00012,13/01/2026,37416.62
+IND-SYN-0013,IT / Professional Services,classic,images/IND-SYN-0013.png,66,2,TAX/2026-27/00013,14/02/2026,217816.2
+IND-SYN-0014,Logistics / Transport,boxed_table,images/IND-SYN-0014.png,65,2,GST/2026-27/00014,15/03/2026,11301.45
+IND-SYN-0015,Textiles / Apparel,compact,images/IND-SYN-0015.png,74,3,BILL/2026-27/00015,16/04/2026,49185.5
+IND-SYN-0016,Agriculture,service,images/IND-SYN-0016.png,65,2,INV/2026-27/00016,17/05/2026,12618.9
+IND-SYN-0017,FMCG / Wholesale,classic,images/IND-SYN-0017.png,81,4,TAX/2026-27/00017,18/06/2026,31162.56
+IND-SYN-0018,Manufacturing / Electrical,boxed_table,images/IND-SYN-0018.png,72,3,GST/2026-27/00018,19/07/2026,34981.1
+IND-SYN-0019,Pharma / Medical,compact,images/IND-SYN-0019.png,90,5,BILL/2026-27/00019,20/08/2026,16177.0
+IND-SYN-0020,Construction / Materials,service,images/IND-SYN-0020.png,67,2,INV/2026-27/00020,21/09/2026,11673.72
+IND-SYN-0021,IT / Professional Services,classic,images/IND-SYN-0021.png,82,4,TAX/2026-27/00021,22/10/2026,363109.6
+IND-SYN-0022,Logistics / Transport,boxed_table,images/IND-SYN-0022.png,86,5,GST/2026-27/00022,23/11/2026,114839.04
+IND-SYN-0023,Textiles / Apparel,compact,images/IND-SYN-0023.png,83,4,BILL/2026-27/00023,24/12/2026,49794.9
+IND-SYN-0024,Agriculture,service,images/IND-SYN-0024.png,65,2,INV/2026-27/00024,25/01/2026,17734.32
+IND-SYN-0025,FMCG / Wholesale,classic,images/IND-SYN-0025.png,66,2,TAX/2026-27/00025,26/02/2026,8977.5
+IND-SYN-0026,Manufacturing / Electrical,boxed_table,images/IND-SYN-0026.png,88,5,GST/2026-27/00026,27/03/2026,37997.18
+IND-SYN-0027,Pharma / Medical,compact,images/IND-SYN-0027.png,64,2,BILL/2026-27/00027,01/04/2026,1077.3
+IND-SYN-0028,Construction / Materials,service,images/IND-SYN-0028.png,91,5,INV/2026-27/00028,02/05/2026,97764.44
+IND-SYN-0029,IT / Professional Services,classic,images/IND-SYN-0029.png,67,2,TAX/2026-27/00029,03/06/2026,305413.5
+IND-SYN-0030,Logistics / Transport,boxed_table,images/IND-SYN-0030.png,72,3,GST/2026-27/00030,04/07/2026,31293.6
+IND-SYN-0031,Textiles / Apparel,compact,images/IND-SYN-0031.png,66,2,BILL/2026-27/00031,05/08/2026,33642.0
+IND-SYN-0032,Agriculture,service,images/IND-SYN-0032.png,81,4,INV/2026-27/00032,06/09/2026,59933.1
+IND-SYN-0033,FMCG / Wholesale,classic,images/IND-SYN-0033.png,83,4,TAX/2026-27/00033,07/10/2026,17851.83
+IND-SYN-0034,Manufacturing / Electrical,boxed_table,images/IND-SYN-0034.png,80,4,GST/2026-27/00034,08/11/2026,34742.0
+IND-SYN-0035,Pharma / Medical,compact,images/IND-SYN-0035.png,81,4,BILL/2026-27/00035,09/12/2026,23826.6
+IND-SYN-0036,Construction / Materials,service,images/IND-SYN-0036.png,67,2,INV/2026-27/00036,10/01/2026,48568.8
+IND-SYN-0037,IT / Professional Services,classic,images/IND-SYN-0037.png,64,2,TAX/2026-27/00037,11/02/2026,136998.0
+IND-SYN-0038,Logistics / Transport,boxed_table,images/IND-SYN-0038.png,72,3,GST/2026-27/00038,12/03/2026,148692.0
+IND-SYN-0039,Textiles / Apparel,compact,images/IND-SYN-0039.png,74,3,BILL/2026-27/00039,13/04/2026,60219.6
+IND-SYN-0040,Agriculture,service,images/IND-SYN-0040.png,84,4,INV/2026-27/00040,14/05/2026,46959.36
+IND-SYN-0041,FMCG / Wholesale,classic,images/IND-SYN-0041.png,76,3,TAX/2026-27/00041,15/06/2026,15566.04
+IND-SYN-0042,Manufacturing / Electrical,boxed_table,images/IND-SYN-0042.png,80,4,GST/2026-27/00042,16/07/2026,29175.54
+IND-SYN-0043,Pharma / Medical,compact,images/IND-SYN-0043.png,67,2,BILL/2026-27/00043,17/08/2026,11924.64
+IND-SYN-0044,Construction / Materials,service,images/IND-SYN-0044.png,92,5,INV/2026-27/00044,18/09/2026,25148.22
+IND-SYN-0045,IT / Professional Services,classic,images/IND-SYN-0045.png,80,4,TAX/2026-27/00045,19/10/2026,231516.0
+IND-SYN-0046,Logistics / Transport,boxed_table,images/IND-SYN-0046.png,73,3,GST/2026-27/00046,20/11/2026,30355.5
+IND-SYN-0047,Textiles / Apparel,compact,images/IND-SYN-0047.png,72,3,BILL/2026-27/00047,21/12/2026,29578.4
+IND-SYN-0048,Agriculture,service,images/IND-SYN-0048.png,73,3,INV/2026-27/00048,22/01/2026,13484.24
+IND-SYN-0049,FMCG / Wholesale,classic,images/IND-SYN-0049.png,76,3,TAX/2026-27/00049,23/02/2026,12073.32
+IND-SYN-0050,Manufacturing / Electrical,boxed_table,images/IND-SYN-0050.png,73,3,GST/2026-27/00050,24/03/2026,21252.98
+IND-SYN-0051,Pharma / Medical,compact,images/IND-SYN-0051.png,90,5,BILL/2026-27/00051,25/04/2026,35813.12
+IND-SYN-0052,Construction / Materials,service,images/IND-SYN-0052.png,90,5,INV/2026-27/00052,26/05/2026,134469.26
+IND-SYN-0053,IT / Professional Services,classic,images/IND-SYN-0053.png,82,4,TAX/2026-27/00053,27/06/2026,166144.0
+IND-SYN-0054,Logistics / Transport,boxed_table,images/IND-SYN-0054.png,72,3,GST/2026-27/00054,01/07/2026,74571.6
+IND-SYN-0055,Textiles / Apparel,compact,images/IND-SYN-0055.png,73,3,BILL/2026-27/00055,02/08/2026,37956.6
+IND-SYN-0056,Agriculture,service,images/IND-SYN-0056.png,88,5,INV/2026-27/00056,03/09/2026,61877.32
+IND-SYN-0057,FMCG / Wholesale,classic,images/IND-SYN-0057.png,88,5,TAX/2026-27/00057,04/10/2026,9514.35
+IND-SYN-0058,Manufacturing / Electrical,boxed_table,images/IND-SYN-0058.png,88,5,GST/2026-27/00058,05/11/2026,37836.42
+IND-SYN-0059,Pharma / Medical,compact,images/IND-SYN-0059.png,67,2,BILL/2026-27/00059,06/12/2026,3583.44
+IND-SYN-0060,Construction / Materials,service,images/IND-SYN-0060.png,77,3,INV/2026-27/00060,07/01/2026,40137.28
+IND-SYN-0061,IT / Professional Services,classic,images/IND-SYN-0061.png,74,3,TAX/2026-27/00061,08/02/2026,282728.0
+IND-SYN-0062,Logistics / Transport,boxed_table,images/IND-SYN-0062.png,79,4,GST/2026-27/00062,09/03/2026,56472.44
+IND-SYN-0063,Textiles / Apparel,compact,images/IND-SYN-0063.png,67,2,BILL/2026-27/00063,10/04/2026,8412.6
+IND-SYN-0064,Agriculture,service,images/IND-SYN-0064.png,65,2,INV/2026-27/00064,11/05/2026,3504.6
+IND-SYN-0065,FMCG / Wholesale,classic,images/IND-SYN-0065.png,73,3,TAX/2026-27/00065,12/06/2026,22373.88
+IND-SYN-0066,Manufacturing / Electrical,boxed_table,images/IND-SYN-0066.png,80,4,GST/2026-27/00066,13/07/2026,58555.04
+IND-SYN-0067,Pharma / Medical,compact,images/IND-SYN-0067.png,73,3,BILL/2026-27/00067,14/08/2026,27540.45
+IND-SYN-0068,Construction / Materials,service,images/IND-SYN-0068.png,67,2,INV/2026-27/00068,15/09/2026,14372.4
+IND-SYN-0069,IT / Professional Services,classic,images/IND-SYN-0069.png,89,5,TAX/2026-27/00069,16/10/2026,219503.6
+IND-SYN-0070,Logistics / Transport,boxed_table,images/IND-SYN-0070.png,88,5,GST/2026-27/00070,17/11/2026,38813.74
+IND-SYN-0071,Textiles / Apparel,compact,images/IND-SYN-0071.png,74,3,BILL/2026-27/00071,18/12/2026,9840.0
+IND-SYN-0072,Agriculture,service,images/IND-SYN-0072.png,80,4,INV/2026-27/00072,19/01/2026,30615.3
+IND-SYN-0073,FMCG / Wholesale,classic,images/IND-SYN-0073.png,90,5,TAX/2026-27/00073,20/02/2026,17249.76
+IND-SYN-0074,Manufacturing / Electrical,boxed_table,images/IND-SYN-0074.png,65,2,GST/2026-27/00074,21/03/2026,40957.8
+IND-SYN-0075,Pharma / Medical,compact,images/IND-SYN-0075.png,66,2,BILL/2026-27/00075,22/04/2026,6575.1
+IND-SYN-0076,Construction / Materials,service,images/IND-SYN-0076.png,91,5,INV/2026-27/00076,23/05/2026,94234.8
+IND-SYN-0077,IT / Professional Services,classic,images/IND-SYN-0077.png,72,3,TAX/2026-27/00077,24/06/2026,230347.8
+IND-SYN-0078,Logistics / Transport,boxed_table,images/IND-SYN-0078.png,80,4,GST/2026-27/00078,25/07/2026,110771.0
+IND-SYN-0079,Textiles / Apparel,compact,images/IND-SYN-0079.png,91,5,BILL/2026-27/00079,26/08/2026,96492.2
+IND-SYN-0080,Agriculture,service,images/IND-SYN-0080.png,92,5,INV/2026-27/00080,27/09/2026,62829.88
+IND-SYN-0081,FMCG / Wholesale,classic,images/IND-SYN-0081.png,83,4,TAX/2026-27/00081,01/10/2026,35834.64
+IND-SYN-0082,Manufacturing / Electrical,boxed_table,images/IND-SYN-0082.png,87,5,GST/2026-27/00082,02/11/2026,55277.24
+IND-SYN-0083,Pharma / Medical,compact,images/IND-SYN-0083.png,75,3,BILL/2026-27/00083,03/12/2026,16507.4
+IND-SYN-0084,Construction / Materials,service,images/IND-SYN-0084.png,83,4,INV/2026-27/00084,04/01/2026,78655.52
+IND-SYN-0085,IT / Professional Services,classic,images/IND-SYN-0085.png,88,5,TAX/2026-27/00085,05/02/2026,326270.0
+IND-SYN-0086,Logistics / Transport,boxed_table,images/IND-SYN-0086.png,72,3,GST/2026-27/00086,06/03/2026,135172.0
+IND-SYN-0087,Textiles / Apparel,compact,images/IND-SYN-0087.png,88,5,BILL/2026-27/00087,07/04/2026,66840.9
+IND-SYN-0088,Agriculture,service,images/IND-SYN-0088.png,74,3,INV/2026-27/00088,08/05/2026,30145.5
+IND-SYN-0089,FMCG / Wholesale,classic,images/IND-SYN-0089.png,88,5,TAX/2026-27/00089,09/06/2026,30187.38
+IND-SYN-0090,Manufacturing / Electrical,boxed_table,images/IND-SYN-0090.png,73,3,GST/2026-27/00090,10/07/2026,47869.28
+IND-SYN-0091,Pharma / Medical,compact,images/IND-SYN-0091.png,90,5,BILL/2026-27/00091,11/08/2026,21105.28
+IND-SYN-0092,Construction / Materials,service,images/IND-SYN-0092.png,84,4,INV/2026-27/00092,12/09/2026,42341.28
+IND-SYN-0093,IT / Professional Services,classic,images/IND-SYN-0093.png,74,3,TAX/2026-27/00093,13/10/2026,188611.2
+IND-SYN-0094,Logistics / Transport,boxed_table,images/IND-SYN-0094.png,87,5,GST/2026-27/00094,14/11/2026,107614.2
+IND-SYN-0095,Textiles / Apparel,compact,images/IND-SYN-0095.png,74,3,BILL/2026-27/00095,15/12/2026,44342.0
+IND-SYN-0096,Agriculture,service,images/IND-SYN-0096.png,73,3,INV/2026-27/00096,16/01/2026,14949.45
+IND-SYN-0097,FMCG / Wholesale,classic,images/IND-SYN-0097.png,72,3,TAX/2026-27/00097,17/02/2026,24395.01
+IND-SYN-0098,Manufacturing / Electrical,boxed_table,images/IND-SYN-0098.png,88,5,GST/2026-27/00098,18/03/2026,41521.54
+IND-SYN-0099,Pharma / Medical,compact,images/IND-SYN-0099.png,82,4,BILL/2026-27/00099,19/04/2026,36156.68
+IND-SYN-0100,Construction / Materials,service,images/IND-SYN-0100.png,74,3,INV/2026-27/00100,20/05/2026,84883.3
+IND-SYN-0101,IT / Professional Services,classic,images/IND-SYN-0101.png,81,4,TAX/2026-27/00101,21/06/2026,288934.8
+IND-SYN-0102,Logistics / Transport,boxed_table,images/IND-SYN-0102.png,71,3,GST/2026-27/00102,22/07/2026,52268.1
+IND-SYN-0103,Textiles / Apparel,compact,images/IND-SYN-0103.png,82,4,BILL/2026-27/00103,23/08/2026,70790.5
+IND-SYN-0104,Agriculture,service,images/IND-SYN-0104.png,65,2,INV/2026-27/00104,24/09/2026,11201.4
+IND-SYN-0105,FMCG / Wholesale,classic,images/IND-SYN-0105.png,87,5,TAX/2026-27/00105,25/10/2026,33788.94
+IND-SYN-0106,Manufacturing / Electrical,boxed_table,images/IND-SYN-0106.png,81,4,GST/2026-27/00106,26/11/2026,10661.3
+IND-SYN-0107,Pharma / Medical,compact,images/IND-SYN-0107.png,88,5,BILL/2026-27/00107,27/12/2026,34926.5
+IND-SYN-0108,Construction / Materials,service,images/IND-SYN-0108.png,85,4,INV/2026-27/00108,01/01/2026,26469.0
+IND-SYN-0109,IT / Professional Services,classic,images/IND-SYN-0109.png,82,4,TAX/2026-27/00109,02/02/2026,298823.2
+IND-SYN-0110,Logistics / Transport,boxed_table,images/IND-SYN-0110.png,73,3,GST/2026-27/00110,03/03/2026,101629.6
+IND-SYN-0111,Textiles / Apparel,compact,images/IND-SYN-0111.png,67,2,BILL/2026-27/00111,04/04/2026,13963.6
+IND-SYN-0112,Agriculture,service,images/IND-SYN-0112.png,64,2,INV/2026-27/00112,05/05/2026,19421.34
+IND-SYN-0113,FMCG / Wholesale,classic,images/IND-SYN-0113.png,83,4,TAX/2026-27/00113,06/06/2026,22519.95
+IND-SYN-0114,Manufacturing / Electrical,boxed_table,images/IND-SYN-0114.png,80,4,GST/2026-27/00114,07/07/2026,70729.2
+IND-SYN-0115,Pharma / Medical,compact,images/IND-SYN-0115.png,65,2,BILL/2026-27/00115,08/08/2026,5618.9
+IND-SYN-0116,Construction / Materials,service,images/IND-SYN-0116.png,68,2,INV/2026-27/00116,09/09/2026,14904.0
+IND-SYN-0117,IT / Professional Services,classic,images/IND-SYN-0117.png,80,4,TAX/2026-27/00117,10/10/2026,290622.2
+IND-SYN-0118,Logistics / Transport,boxed_table,images/IND-SYN-0118.png,88,5,GST/2026-27/00118,11/11/2026,59069.62
+IND-SYN-0119,Textiles / Apparel,compact,images/IND-SYN-0119.png,90,5,BILL/2026-27/00119,12/12/2026,49923.0
+IND-SYN-0120,Agriculture,service,images/IND-SYN-0120.png,92,5,INV/2026-27/00120,13/01/2026,25686.66
+IND-SYN-0121,FMCG / Wholesale,classic,images/IND-SYN-0121.png,65,2,TAX/2026-27/00121,14/02/2026,8812.56
+IND-SYN-0122,Manufacturing / Electrical,boxed_table,images/IND-SYN-0122.png,79,4,GST/2026-27/00122,15/03/2026,77744.79
+IND-SYN-0123,Pharma / Medical,compact,images/IND-SYN-0123.png,90,5,BILL/2026-27/00123,16/04/2026,24544.38
+IND-SYN-0124,Construction / Materials,service,images/IND-SYN-0124.png,66,2,INV/2026-27/00124,17/05/2026,18977.94
+IND-SYN-0125,IT / Professional Services,classic,images/IND-SYN-0125.png,80,4,TAX/2026-27/00125,18/06/2026,221474.2
+IND-SYN-0126,Logistics / Transport,boxed_table,images/IND-SYN-0126.png,65,2,GST/2026-27/00126,19/07/2026,26573.6
+IND-SYN-0127,Textiles / Apparel,compact,images/IND-SYN-0127.png,88,5,BILL/2026-27/00127,20/08/2026,70224.65
+IND-SYN-0128,Agriculture,service,images/IND-SYN-0128.png,73,3,INV/2026-27/00128,21/09/2026,10992.3
+IND-SYN-0129,FMCG / Wholesale,classic,images/IND-SYN-0129.png,90,5,TAX/2026-27/00129,22/10/2026,25409.64
+IND-SYN-0130,Manufacturing / Electrical,boxed_table,images/IND-SYN-0130.png,88,5,GST/2026-27/00130,23/11/2026,59356.79
+IND-SYN-0131,Pharma / Medical,compact,images/IND-SYN-0131.png,75,3,BILL/2026-27/00131,24/12/2026,20449.8
+IND-SYN-0132,Construction / Materials,service,images/IND-SYN-0132.png,82,4,INV/2026-27/00132,25/01/2026,17821.18
+IND-SYN-0133,IT / Professional Services,classic,images/IND-SYN-0133.png,73,3,TAX/2026-27/00133,26/02/2026,233321.4
+IND-SYN-0134,Logistics / Transport,boxed_table,images/IND-SYN-0134.png,72,3,GST/2026-27/00134,27/03/2026,137139.9
+IND-SYN-0135,Textiles / Apparel,compact,images/IND-SYN-0135.png,82,4,BILL/2026-27/00135,01/04/2026,29013.3
+IND-SYN-0136,Agriculture,service,images/IND-SYN-0136.png,88,5,INV/2026-27/00136,02/05/2026,27926.6
+IND-SYN-0137,FMCG / Wholesale,classic,images/IND-SYN-0137.png,74,3,TAX/2026-27/00137,03/06/2026,15701.7
+IND-SYN-0138,Manufacturing / Electrical,boxed_table,images/IND-SYN-0138.png,88,5,GST/2026-27/00138,04/07/2026,38083.76
+IND-SYN-0139,Pharma / Medical,compact,images/IND-SYN-0139.png,74,3,BILL/2026-27/00139,05/08/2026,9689.75
+IND-SYN-0140,Construction / Materials,service,images/IND-SYN-0140.png,75,3,INV/2026-27/00140,06/09/2026,14729.0
+IND-SYN-0141,IT / Professional Services,classic,images/IND-SYN-0141.png,82,4,TAX/2026-27/00141,07/10/2026,203845.0
+IND-SYN-0142,Logistics / Transport,boxed_table,images/IND-SYN-0142.png,63,2,GST/2026-27/00142,08/11/2026,60298.0
+IND-SYN-0143,Textiles / Apparel,compact,images/IND-SYN-0143.png,75,3,BILL/2026-27/00143,09/12/2026,26602.5
+IND-SYN-0144,Agriculture,service,images/IND-SYN-0144.png,88,5,INV/2026-27/00144,10/01/2026,51170.1
+IND-SYN-0145,FMCG / Wholesale,classic,images/IND-SYN-0145.png,89,5,TAX/2026-27/00145,11/02/2026,25299.03
+IND-SYN-0146,Manufacturing / Electrical,boxed_table,images/IND-SYN-0146.png,72,3,GST/2026-27/00146,12/03/2026,49128.84
+IND-SYN-0147,Pharma / Medical,compact,images/IND-SYN-0147.png,80,4,BILL/2026-27/00147,13/04/2026,7378.98
+IND-SYN-0148,Construction / Materials,service,images/IND-SYN-0148.png,83,4,INV/2026-27/00148,14/05/2026,104796.04
+IND-SYN-0149,IT / Professional Services,classic,images/IND-SYN-0149.png,89,5,TAX/2026-27/00149,15/06/2026,221415.2
+IND-SYN-0150,Logistics / Transport,boxed_table,images/IND-SYN-0150.png,73,3,GST/2026-27/00150,16/07/2026,30304.76
+IND-SYN-0151,Textiles / Apparel,compact,images/IND-SYN-0151.png,75,3,BILL/2026-27/00151,17/08/2026,15558.9
+IND-SYN-0152,Agriculture,service,images/IND-SYN-0152.png,72,3,INV/2026-27/00152,18/09/2026,25035.86
+IND-SYN-0153,FMCG / Wholesale,classic,images/IND-SYN-0153.png,81,4,TAX/2026-27/00153,19/10/2026,22946.94
+IND-SYN-0154,Manufacturing / Electrical,boxed_table,images/IND-SYN-0154.png,80,4,GST/2026-27/00154,20/11/2026,48913.2
+IND-SYN-0155,Pharma / Medical,compact,images/IND-SYN-0155.png,66,2,BILL/2026-27/00155,21/12/2026,3951.5
+IND-SYN-0156,Construction / Materials,service,images/IND-SYN-0156.png,83,4,INV/2026-27/00156,22/01/2026,65973.21
+IND-SYN-0157,IT / Professional Services,classic,images/IND-SYN-0157.png,80,4,TAX/2026-27/00157,23/02/2026,408693.0
+IND-SYN-0158,Logistics / Transport,boxed_table,images/IND-SYN-0158.png,88,5,GST/2026-27/00158,24/03/2026,63661.0
+IND-SYN-0159,Textiles / Apparel,compact,images/IND-SYN-0159.png,82,4,BILL/2026-27/00159,25/04/2026,30068.1
+IND-SYN-0160,Agriculture,service,images/IND-SYN-0160.png,68,2,INV/2026-27/00160,26/05/2026,4450.7
+IND-SYN-0161,FMCG / Wholesale,classic,images/IND-SYN-0161.png,65,2,TAX/2026-27/00161,27/06/2026,3256.8
+IND-SYN-0162,Manufacturing / Electrical,boxed_table,images/IND-SYN-0162.png,87,5,GST/2026-27/00162,01/07/2026,59428.34
+IND-SYN-0163,Pharma / Medical,compact,images/IND-SYN-0163.png,91,5,BILL/2026-27/00163,02/08/2026,16071.44
+IND-SYN-0164,Construction / Materials,service,images/IND-SYN-0164.png,66,2,INV/2026-27/00164,03/09/2026,68491.92
+IND-SYN-0165,IT / Professional Services,classic,images/IND-SYN-0165.png,88,5,TAX/2026-27/00165,04/10/2026,239658.0
+IND-SYN-0166,Logistics / Transport,boxed_table,images/IND-SYN-0166.png,80,4,GST/2026-27/00166,05/11/2026,26853.85
+IND-SYN-0167,Textiles / Apparel,compact,images/IND-SYN-0167.png,80,4,BILL/2026-27/00167,06/12/2026,27234.2
+IND-SYN-0168,Agriculture,service,images/IND-SYN-0168.png,88,5,INV/2026-27/00168,07/01/2026,65839.66
+IND-SYN-0169,FMCG / Wholesale,classic,images/IND-SYN-0169.png,67,2,TAX/2026-27/00169,08/02/2026,3940.65
+IND-SYN-0170,Manufacturing / Electrical,boxed_table,images/IND-SYN-0170.png,73,3,GST/2026-27/00170,09/03/2026,34701.01
+IND-SYN-0171,Pharma / Medical,compact,images/IND-SYN-0171.png,74,3,BILL/2026-27/00171,10/04/2026,19198.76
+IND-SYN-0172,Construction / Materials,service,images/IND-SYN-0172.png,66,2,INV/2026-27/00172,11/05/2026,8571.76
+IND-SYN-0173,IT / Professional Services,classic,images/IND-SYN-0173.png,90,5,TAX/2026-27/00173,12/06/2026,350241.7
+IND-SYN-0174,Logistics / Transport,boxed_table,images/IND-SYN-0174.png,73,3,GST/2026-27/00174,13/07/2026,24643.12
+IND-SYN-0175,Textiles / Apparel,compact,images/IND-SYN-0175.png,81,4,BILL/2026-27/00175,14/08/2026,18384.9
+IND-SYN-0176,Agriculture,service,images/IND-SYN-0176.png,73,3,INV/2026-27/00176,15/09/2026,58365.4
+IND-SYN-0177,FMCG / Wholesale,classic,images/IND-SYN-0177.png,81,4,TAX/2026-27/00177,16/10/2026,17708.46
+IND-SYN-0178,Manufacturing / Electrical,boxed_table,images/IND-SYN-0178.png,88,5,GST/2026-27/00178,17/11/2026,69691.7
+IND-SYN-0179,Pharma / Medical,compact,images/IND-SYN-0179.png,82,4,BILL/2026-27/00179,18/12/2026,4254.6
+IND-SYN-0180,Construction / Materials,service,images/IND-SYN-0180.png,92,5,INV/2026-27/00180,19/01/2026,115797.92
+IND-SYN-0181,IT / Professional Services,classic,images/IND-SYN-0181.png,66,2,TAX/2026-27/00181,20/02/2026,74977.2
+IND-SYN-0182,Logistics / Transport,boxed_table,images/IND-SYN-0182.png,87,5,GST/2026-27/00182,21/03/2026,81437.7
+IND-SYN-0183,Textiles / Apparel,compact,images/IND-SYN-0183.png,90,5,BILL/2026-27/00183,22/04/2026,66313.1
+IND-SYN-0184,Agriculture,service,images/IND-SYN-0184.png,89,5,INV/2026-27/00184,23/05/2026,39201.76
+IND-SYN-0185,FMCG / Wholesale,classic,images/IND-SYN-0185.png,87,5,TAX/2026-27/00185,24/06/2026,31645.23
+IND-SYN-0186,Manufacturing / Electrical,boxed_table,images/IND-SYN-0186.png,80,4,GST/2026-27/00186,25/07/2026,23763.05
+IND-SYN-0187,Pharma / Medical,compact,images/IND-SYN-0187.png,72,3,BILL/2026-27/00187,26/08/2026,22396.5
+IND-SYN-0188,Construction / Materials,service,images/IND-SYN-0188.png,85,4,INV/2026-27/00188,27/09/2026,31693.44
+IND-SYN-0189,IT / Professional Services,classic,images/IND-SYN-0189.png,81,4,TAX/2026-27/00189,01/10/2026,282014.1
+IND-SYN-0190,Logistics / Transport,boxed_table,images/IND-SYN-0190.png,73,3,GST/2026-27/00190,02/11/2026,101219.76
+IND-SYN-0191,Textiles / Apparel,compact,images/IND-SYN-0191.png,90,5,BILL/2026-27/00191,03/12/2026,53012.75
+IND-SYN-0192,Agriculture,service,images/IND-SYN-0192.png,63,2,INV/2026-27/00192,04/01/2026,25167.12
+IND-SYN-0193,FMCG / Wholesale,classic,images/IND-SYN-0193.png,90,5,TAX/2026-27/00193,05/02/2026,33013.26
+IND-SYN-0194,Manufacturing / Electrical,boxed_table,images/IND-SYN-0194.png,81,4,GST/2026-27/00194,06/03/2026,41355.46
+IND-SYN-0195,Pharma / Medical,compact,images/IND-SYN-0195.png,89,5,BILL/2026-27/00195,07/04/2026,30482.06
+IND-SYN-0196,Construction / Materials,service,images/IND-SYN-0196.png,69,2,INV/2026-27/00196,08/05/2026,12512.28
+IND-SYN-0197,IT / Professional Services,classic,images/IND-SYN-0197.png,72,3,TAX/2026-27/00197,09/06/2026,187814.7
+IND-SYN-0198,Logistics / Transport,boxed_table,images/IND-SYN-0198.png,64,2,GST/2026-27/00198,10/07/2026,38409.0
+IND-SYN-0199,Textiles / Apparel,compact,images/IND-SYN-0199.png,90,5,BILL/2026-27/00199,11/08/2026,41034.8
+IND-SYN-0200,Agriculture,service,images/IND-SYN-0200.png,91,5,INV/2026-27/00200,12/09/2026,43525.28

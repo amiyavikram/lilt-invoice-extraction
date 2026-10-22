@@ -1,0 +1,34 @@
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Virtual environments
+.venv/
+venv/
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Generated pipeline output
+pipeline_output/
+pipeline_output_*/
+
+# Model checkpoints and large weights
+*.safetensors
+*.pt
+*.pth
+*.bin
+*.onnx
+
+# Local datasets and invoice images
+sample_invoices/
+dataset/
+datasets/
+
+# Editor files
+.vscode/
+.idea/

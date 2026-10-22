@@ -1,0 +1,23 @@
+{
+  "B-BUYER": 0,
+  "B-BUYER_GSTIN": 1,
+  "B-CGST": 2,
+  "B-GST_RATE": 3,
+  "B-HSN_SAC": 4,
+  "B-IGST": 5,
+  "B-INVOICE_DATE": 6,
+  "B-INVOICE_NUMBER": 7,
+  "B-LINE_AMOUNT": 8,
+  "B-LINE_ITEM": 9,
+  "B-PO_NUMBER": 10,
+  "B-QUANTITY": 11,
+  "B-SGST": 12,
+  "B-SUBTOTAL": 13,
+  "B-SUPPLIER_GSTIN": 14,
+  "B-TOTAL_AMOUNT": 15,
+  "B-UNIT_PRICE": 16,
+  "B-VENDOR": 17,
+  "I-BUYER": 18,
+  "I-VENDOR": 19,
+  "O": 20
+}
